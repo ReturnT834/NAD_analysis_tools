@@ -17,7 +17,7 @@ Notebooks listed below.
 
 2. `map_visualization.ipynb`: This tool allows to visualize 2d maps of
    different regions of the models. It also offers the possibility of
-   show isolines of different indicatorss.
+   show isolines of different indicators.
 
 
 ## Requirements
